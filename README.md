@@ -15,6 +15,7 @@ Login - POST: http://localhost:3333/login
 ---
 
 Criar usuário - POST: http://localhost:3333/users
+```json
 {
   "username": "Aga",
   "password": "aga123",
@@ -23,15 +24,17 @@ Criar usuário - POST: http://localhost:3333/users
   "age": 29,
   "phoneNumber": "49988055555"
 }
+```
 
 ---
 
 Novo curso - POST: 
+```json
 {
   "name": "Curso de NodeJS + SQL",
   "isAvailable": true
 }
-
+```
 
 ---
 
