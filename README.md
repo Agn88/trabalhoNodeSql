@@ -53,9 +53,10 @@ http://localhost:3333/subscription
 ---
 
 Deletar inscrição - DELETE: http://localhost:3333/subscription
+```json
 {
   "id": 1
 }
-
+```
 
 
