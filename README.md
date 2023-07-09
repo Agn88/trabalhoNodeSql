@@ -1,4 +1,6 @@
-# trabalhoNodeSql
+# Back-end Node.JS com SQL [23E2_3] - Trabalho final
+
+---
 
 Listar usuários através de GET: http://localhost:3333/users
 
